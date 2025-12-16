@@ -1,0 +1,50 @@
+#b0 {
+    background-color: red;
+    display: inline;
+}
+
+button {
+    display: block;
+}
+
+#b1 {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    background-color: rgba(255,0,0,0.5);
+}
+
+#b2 {
+    background-color: gray;
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    /* display: none; */
+    visibility: hidden;
+}
+
+#b3 {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    background-color: rgba(255,0,0,0.75);
+}
+
+
+
+
+
+#b4 {
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    background-color: rgba(255,0,0,1);
+}

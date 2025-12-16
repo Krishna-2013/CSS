@@ -1,0 +1,36 @@
+div {
+    height: 150px;
+    width: 150px;
+    background-color: aqua;
+    /* border-width: 2px;
+    border-style:dashed;
+    border-style:dotted;
+    border-style: double;
+    border-style: solid;
+    border-color: red; */
+
+    /* In shorhand: */
+
+    border: 2px solid red ;
+
+
+    border-radius: 15px;
+    /* border-radius: 50%; */
+
+
+    padding: 25px;
+    /* padding: 5px 10px 15px 20px; clockwise top,right,bottom,left*/
+
+    margin: 15px;
+    /* margin: 5px 10px 15px 20px; clockwise --> top,right,bottom,left */
+}
+
+h1 {
+    height: 50px;
+    width: 200px;
+    background-color: pink;
+    /* border-style: dashed;
+    border-color: black; */
+    border: 2px dashed black;
+    text-align: center;
+}

@@ -1,0 +1,14 @@
+.outer {
+    height: 400px;
+    width: 400px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    /* align-items: start; */
+    align-items: center;
+}
+.iner {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}

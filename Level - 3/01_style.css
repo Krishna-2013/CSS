@@ -1,0 +1,16 @@
+#b1 {
+    height: 100px;
+    width: 200px;
+    background-color: green;
+    font-size: 10px; 
+}
+
+#b2 {
+    /* height: 50px; */
+    height: 100vh;
+    /* width: 30%; */
+    width: 5em;  /* parent width*n(em)*/
+    font-size: 2em;  /* double of parent */
+    margin-left: 10%;
+    background-color: yellow;
+}

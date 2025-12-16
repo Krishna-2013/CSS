@@ -1,0 +1,38 @@
+/* elements selector
+h1 {
+    color:green;
+}
+
+p {
+    color:red;
+}
+
+button{
+    color:brown;
+    background-color: blueviolet;
+}
+
+body{
+    background-color: #F2FBE0;
+} */
+
+
+*{
+    color:pink;  /*universal selector */
+}
+
+h1{
+    color: green; /* higer prioroty*/
+}
+
+#heading1{
+    color:black;
+}
+
+.class_tag{
+    color:red;
+}
+
+button{
+    color:brown;
+}
